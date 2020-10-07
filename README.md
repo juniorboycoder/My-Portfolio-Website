@@ -1,2 +1,2 @@
 # My-Portfolio-Website
-built with node js(express), bootstrap,javacript.,jquery.... deployed with heroku
+built with node js(express), bootstrap,javacript.,jquery.... deployed with firebase
